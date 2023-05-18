@@ -7,7 +7,7 @@ body {
 }
 
 body{
-    background-image: url(/src/imagens/FilthyGrouchyKitten-size_restricted.gif);
+    background-image: url(../imagens/FilthyGrouchyKitten-size_restricted.gif);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -61,7 +61,7 @@ main .cartao-pokemon {
     gap: 15px;
     border-radius: 15px;
     transition: 0.2s ease-in-out;
-    background-image: url(/src/imagens/wallpaperbetter.com_1920x1080.jpg);
+    background-image: url(../imagens/wallpaperbetter.com_1920x1080.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
